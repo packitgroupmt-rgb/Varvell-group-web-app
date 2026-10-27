@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/mohitthakur/Desktop/varvell-group-nextjs/src/app/not-found.tsx"],"sourcesContent":["import Link from \"next/link\";\n\nexport default function NotFound() {\n  return (\n    <section className=\"page-hero small-page-hero\">\n      <div className=\"container\">\n        <span className=\"eyebrow\">404</span>\n        <h1>Page not<br /><em>found.</em></h1>\n        <Link href=\"/\" className=\"button button-dark\">Back home <span>→</span></Link>\n      </div>\n    </section>\n  );\n}\n"],"names":["NotFound","className","href"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBACE,4QAAC;QAAQC,WAAU;kBACjB,cAAA,4QAAC;YAAIA,WAAU;;8BACb,4QAAC;oBAAKA,WAAU;8BAAU;;;;;;8BAC1B,4QAAC;;wBAAG;sCAAQ,4QAAC;;;;;sCAAK,4QAAC;sCAAG;;;;;;;;;;;;8BACtB,4QAAC,wNAAI;oBAACC,MAAK;oBAAID,WAAU;;wBAAqB;sCAAU,4QAAC;sCAAK;;;;;;;;;;;;;;;;;;;;;;;AAItE"}}]
+}
