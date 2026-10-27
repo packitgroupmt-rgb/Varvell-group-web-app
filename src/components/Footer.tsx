@@ -35,7 +35,7 @@ export default function Footer() {
       </div>
 
       <div className="container footer-bottom">
-        <span>© {new Date().getFullYear()} varvell Group. All rights reserved.</span>
+        <span>© 2026 varvell Group. All rights reserved.</span>
         <span>Luxembourg · Europe</span>
       </div>
     </footer>

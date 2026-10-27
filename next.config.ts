@@ -1,3 +1,4 @@
+
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
@@ -5,10 +6,27 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "images.unsplash.com"
-      }
-    ]
-  }
+        hostname: "images.unsplash.com",
+      },
+    ],
+  },
+
+  experimental: {
+    agentFeedback: true,
+  },
+
+  cacheComponents: true,
+  partialPrefetching: true,
+  reactCompiler: true,
+
+  turbopack: {
+    rules: {
+      "*.css": {
+        loaders: ["@tailwindcss/turbopack"],
+        as: "*.css",
+      },
+    },
+  },
 };
 
 export default nextConfig;

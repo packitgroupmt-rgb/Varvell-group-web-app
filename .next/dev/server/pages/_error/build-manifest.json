@@ -6,18 +6,18 @@
   "rootMainFiles": [],
   "pages": {
     "/_error": [
-      "static/chunks/0qno_next_dist_compiled_1auzy8_8kqepe._.js",
-      "static/chunks/0qno_next_dist_shared_lib_0fgmso--kgv3p._.js",
-      "static/chunks/0qno_next_dist_client_056rwd1o-i36w._.js",
-      "static/chunks/0qno_next_dist_13q9oxoc0dx54._.js",
-      "static/chunks/[next]_entry_page-loader_ts_0akjnru2471jd._.js",
-      "static/chunks/0qno_react-dom_cjs_react-dom-client_development_1oxxc959-j4e6.js",
-      "static/chunks/0qno_react-dom_cjs_react-dom_development_1h3df-hcikmxe.js",
-      "static/chunks/0qno_react-dom_1f0te7jr-vpie._.js",
-      "static/chunks/0qno_0nnkie51-8v5l._.js",
-      "static/chunks/[root-of-the-server]__0krj8w2o-hmyc._.js",
-      "static/chunks/varvell-group-nextjs_pages__error_1613e0f56_7nf._.js",
-      "static/chunks/turbopack-varvell-group-nextjs_pages__error_1t_cfcwga6-fe._.js"
+      "static/chunks/node_modules_next_dist_shared_lib_1-0j6dh5fmcf0._.js",
+      "static/chunks/node_modules_next_dist_client_0tk8-26rtzlym._.js",
+      "static/chunks/node_modules_next_dist_compiled_0pcyzt7rtv6wz._.js",
+      "static/chunks/node_modules_next_dist_0d6n9_1-a3rq6._.js",
+      "static/chunks/[next]_entry_page-loader_ts_1aoli7mnyw1hs._.js",
+      "static/chunks/node_modules_react-dom_cjs_react-dom-client_development_1nq9a-7w2rk6e.js",
+      "static/chunks/node_modules_react-dom_cjs_react-dom_development_0d3scg3xnfy6h.js",
+      "static/chunks/node_modules_react-dom_13voigl36lis-._.js",
+      "static/chunks/node_modules_14t9bka2qj-mh._.js",
+      "static/chunks/[root-of-the-server]__02sxxpho_3e87._.js",
+      "static/chunks/pages__error_1gb68scai-n28._.js",
+      "static/chunks/turbopack-pages__error_13b8ltztz4835._.js"
     ]
   },
   "ampFirstPages": [],
