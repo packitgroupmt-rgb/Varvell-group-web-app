@@ -25,7 +25,7 @@ export default function ContactPage() {
             <p>Use the form for general enquiries, partnerships, projects, supplier enquiries or careers.</p>
 
             <div className="contact-details">
-              <div><span>Email</span><a href="mailto:hello@varvellgroup.com">hello@varvellgroup.com</a></div>
+              <div><span>Email</span><a href="mailto:info@varvellgroup.com">info@varvellgroup.com</a></div>
               <div><span>Location</span><p>Luxembourg · Europe</p></div>
             </div>
           </div>

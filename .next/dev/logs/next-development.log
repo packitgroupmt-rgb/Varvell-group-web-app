@@ -1,12 +1,12 @@
-{"timestamp":"00:00:00.881","source":"Server","level":"LOG","message":"- Cache Components enabled"}
-{"timestamp":"00:00:00.881","source":"Server","level":"LOG","message":"- Partial Prefetching enabled"}
-{"timestamp":"00:00:00.881","source":"Server","level":"LOG","message":"- Experiments (use with caution):"}
-{"timestamp":"00:00:00.881","source":"Server","level":"LOG","message":"  ✓ agentFeedback"}
-{"timestamp":"00:00:00.881","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:02.379","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:00:02.973","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:00:08.681","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:02:45.633","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
-{"timestamp":"00:02:45.688","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
-{"timestamp":"00:02:45.713","source":"Browser","level":"WARN","message":"Image with src \"https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1800&q=85\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio."}
-{"timestamp":"00:02:45.718","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1800&q=85\\\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \\\"auto\\\"' or 'height: \\\"auto\\\"' to maintain the aspect ratio.\\u001b[39m\""}
+{"timestamp":"00:00:00.830","source":"Server","level":"LOG","message":"- Cache Components enabled"}
+{"timestamp":"00:00:00.830","source":"Server","level":"LOG","message":"- Partial Prefetching enabled"}
+{"timestamp":"00:00:00.830","source":"Server","level":"LOG","message":"- Experiments (use with caution):"}
+{"timestamp":"00:00:00.830","source":"Server","level":"LOG","message":"  ✓ agentFeedback"}
+{"timestamp":"00:00:00.830","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:12.835","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:22.983","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"00:00:23.009","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
+{"timestamp":"00:00:43.769","source":"Server","level":"LOG","message":"✓ Compiled in 172ms"}
+{"timestamp":"00:01:46.816","source":"Server","level":"ERROR","message":"Contact form SMTP error: Error: Connection closed unexpectedly"}
+{"timestamp":"00:02:49.975","source":"Server","level":"ERROR","message":"⨯ \"upstream image response timed out for\" \"https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1400&q=85\""}
+{"timestamp":"00:06:59.923","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}

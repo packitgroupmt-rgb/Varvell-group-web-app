@@ -21,7 +21,7 @@ export default function LegalPage() {
           <h2>Intellectual property</h2>
           <p>Unless otherwise stated, website content, branding, text and visual materials are owned by or licensed to varvell Group and may not be reproduced without permission.</p>
           <h2>Contact</h2>
-          <p><a href="mailto:hello@varvellgroup.com">hello@varvellgroup.com</a></p>
+          <p><a href="mailto:info@varvellgroup.com">info@varvellgroup.com</a></p>
         </div>
       </section>
     </>
