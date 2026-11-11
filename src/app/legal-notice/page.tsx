@@ -13,9 +13,9 @@ export default function LegalPage() {
       <section className="section legal-page">
         <div className="container legal-copy">
           <h2>Website operator</h2>
-          <p><strong>varvell Group</strong><br />Luxembourg · Europe</p>
+          <p><strong>Varvell Group</strong><br />132 Rue de Dippach, 8055 Bertrange, Luxembourg</p>
           <h2>Website</h2>
-          <p>This website is intended to provide general information about varvell Group and its business activities.</p>
+          <p>This website is intended to provide general information about Varvell Group and its business activities.</p>
           <h2>Accuracy of information</h2>
           <p>Information on this website is provided for general information purposes and may be updated or changed without notice.</p>
           <h2>Intellectual property</h2>

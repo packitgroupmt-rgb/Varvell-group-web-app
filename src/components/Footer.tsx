@@ -36,7 +36,7 @@ export default function Footer() {
 
       <div className="container footer-bottom">
         <span>© 2026 varvell Group. All rights reserved.</span>
-        <span>Luxembourg · Europe</span>
+        <span>132 Rue de Dippach, 8055 Bertrange, Luxembourg</span>
       </div>
     </footer>
   );

@@ -4,8 +4,8 @@ import SectionHeading from "@/components/SectionHeading";
 import CTA from "@/components/CTA";
 
 export const metadata: Metadata = {
-  title: "varvell Hospitality",
-  description: "varvell Hospitality develops and operates restaurant and hospitality concepts focused on experience, service and quality.",
+  title: "Varvell Hospitality",
+  description: "Varvell Hospitality develops and operates restaurant and hospitality concepts focused on experience, service and quality.",
   alternates: { canonical: "/hospitality" }
 };
 
@@ -14,7 +14,7 @@ export default function HospitalityPage() {
     <>
       <section className="division-hero hospitality-hero">
         <div className="container division-hero-content">
-          <span className="eyebrow">varvell HOSPITALITY · 02</span>
+          <span className="eyebrow">VARVELL HOSPITALITY · 02</span>
           <h1>Spaces made<br /><em>to be remembered.</em></h1>
           <p>Restaurant and hospitality concepts where atmosphere, service and quality come together.</p>
         </div>

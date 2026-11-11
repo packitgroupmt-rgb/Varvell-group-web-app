@@ -8,11 +8,11 @@ const siteUrl = "https://www.varvellgroup.com";
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "varvell Group | Building. Serving. Delivering.",
-    template: "%s | varvell Group"
+    default: "Varvell Group | Building. Serving. Delivering.",
+    template: "%s | Varvell Group"
   },
   description:
-    "varvell Group is a diversified European business group operating across construction, hospitality, warehousing and logistics.",
+    "Varvell Group is a diversified European business group operating across construction, hospitality, warehousing and logistics.",
   applicationName: "varvell Group",
   authors: [{ name: "varvell Group" }],
   creator: "varvell Group",

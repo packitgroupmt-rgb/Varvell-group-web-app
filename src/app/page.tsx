@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 import type { Metadata } from "next";
 import SectionHeading from "@/components/SectionHeading";
 import BusinessCard from "@/components/BusinessCard";
@@ -8,39 +7,42 @@ import CTA from "@/components/CTA";
 export const metadata: Metadata = {
   title: "Construction, Hospitality & Logistics",
   description:
-    "varvell Group brings together construction, hospitality and logistics businesses with a focus on quality, reliability and long-term growth.",
+    "Varvell Group brings together construction, hospitality and logistics businesses with a focus on quality, reliability and long-term growth.",
   alternates: { canonical: "/" }
 };
 
 const businesses = [
   {
     number: "01",
-    title: "varvell Construction",
+    title: "Varvell Construction",
     subtitle: "Construction & infrastructure",
     image: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1400&q=85",
     href: "/construction"
   },
+
   {
     number: "02",
-    title: "varvell Hospitality",
+    title: "Varvell Hospitality",
     subtitle: "Restaurant & hospitality",
     image: "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1400&q=85",
     href: "/hospitality"
   },
+
   {
     number: "03",
-    title: "varvell Logistics",
+    title: "Varvell Logistics",
     subtitle: "Warehousing & logistics",
     image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1400&q=85",
     href: "/logistics"
   }
+
 ];
 
 export default function HomePage() {
   const organizationSchema = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: "varvell Group",
+    name: "Varvell Group",
     url: "https://www.varvellgroup.com",
     description:
       "Diversified European business group operating across construction, hospitality and logistics.",

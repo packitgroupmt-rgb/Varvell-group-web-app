@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import Image from "next/image";
 import SectionHeading from "@/components/SectionHeading";
 import CTA from "@/components/CTA";
@@ -15,7 +14,7 @@ export default function AboutPage() {
     <>
       <section className="page-hero">
         <div className="container">
-          <span className="eyebrow">ABOUT varvell</span>
+          <span className="eyebrow">ABOUT VARVELL</span>
           <h1>A group built around<br /><em>real-world businesses.</em></h1>
         </div>
       </section>

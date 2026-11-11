@@ -14,7 +14,7 @@ export default function LogisticsPage() {
     <>
       <section className="division-hero logistics-hero">
         <div className="container division-hero-content">
-          <span className="eyebrow">varvell LOGISTICS · 03</span>
+          <span className="eyebrow">VARVELL LOGISTICS · 03</span>
           <h1>Moving business<br /><em>forward.</em></h1>
           <p>Warehousing and logistics built around reliability, efficiency and operational clarity.</p>
         </div>

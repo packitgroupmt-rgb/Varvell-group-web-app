@@ -22,7 +22,7 @@ export default function PrivacyPage() {
           <h2>4. Data retention</h2>
           <p>We retain information only for as long as reasonably necessary for the purpose for which it was collected or where a legal obligation requires retention.</p>
           <h2>5. Contact</h2>
-          <p>For privacy questions, contact <a href="mailto:privacy@varvellgroup.com">privacy@varvellgroup.com</a>.</p>
+          <p>For privacy questions, contact <a href="mailto:info@varvellgroup.com">info@varvellgroup.com</a>.</p>
         </div>
       </section>
     </>

@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import ContactForm from "@/components/ContactForm";
 
 export const metadata: Metadata = {
-  title: "Contact varvell Group",
-  description: "Contact varvell Group for business enquiries, partnerships, construction, hospitality, logistics and careers.",
+  title: "Contact Varvell Group",
+  description: "Contact Varvell Group for business enquiries, partnerships, construction, hospitality, logistics and careers.",
   alternates: { canonical: "/contact" }
 };
 
@@ -26,7 +26,7 @@ export default function ContactPage() {
 
             <div className="contact-details">
               <div><span>Email</span><a href="mailto:info@varvellgroup.com">info@varvellgroup.com</a></div>
-              <div><span>Location</span><p>Luxembourg · Europe</p></div>
+              <div><span>Location</span><p>132 Rue de Dippach, 8055 Bertrange, Luxembourg</p></div>
             </div>
           </div>
 

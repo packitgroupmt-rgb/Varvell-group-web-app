@@ -4,8 +4,8 @@ import SectionHeading from "@/components/SectionHeading";
 import CTA from "@/components/CTA";
 
 export const metadata: Metadata = {
-  title: "varvell Construction",
-  description: "varvell Construction focuses on quality-led construction and infrastructure projects with a practical, reliable approach.",
+  title: "Varvell Construction",
+  description: "Varvell Construction focuses on quality-led construction and infrastructure projects with a practical, reliable approach.",
   alternates: { canonical: "/construction" }
 };
 
@@ -14,7 +14,7 @@ export default function ConstructionPage() {
     <>
       <section className="division-hero construction-hero">
         <div className="container division-hero-content">
-          <span className="eyebrow">varvell CONSTRUCTION · 01</span>
+          <span className="eyebrow">VARVELL CONSTRUCTION · 01</span>
           <h1>Built to stand<br /><em>the test of time.</em></h1>
           <p>Construction and infrastructure with a focus on quality, coordination and dependable delivery.</p>
         </div>
