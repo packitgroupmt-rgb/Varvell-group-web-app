@@ -35,7 +35,7 @@ export default function AboutPage() {
 
       <section className="image-band">
         <Image
-          src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1800&q=85"
+          src="/varvell-about.png"
           alt="Modern European business interior"
           width={1800}
           height={620}

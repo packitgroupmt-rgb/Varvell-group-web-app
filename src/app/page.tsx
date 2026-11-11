@@ -16,7 +16,7 @@ const businesses = [
     number: "01",
     title: "Varvell Construction",
     subtitle: "Construction & infrastructure",
-    image: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1400&q=85",
+    image: "/varvell-construction.png",
     href: "/construction"
   },
 
@@ -24,7 +24,7 @@ const businesses = [
     number: "02",
     title: "Varvell Hospitality",
     subtitle: "Restaurant & hospitality",
-    image: "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1400&q=85",
+    image: "/varevell-hospitality.png",
     href: "/hospitality"
   },
 
@@ -32,7 +32,7 @@ const businesses = [
     number: "03",
     title: "Varvell Logistics",
     subtitle: "Warehousing & logistics",
-    image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1400&q=85",
+    image: "/varvell-logistics.png",
     href: "/logistics"
   }
 
@@ -62,7 +62,7 @@ export default function HomePage() {
       <section className="hero">
         <div className="hero-overlay" />
         <div className="container hero-content">
-          <span className="eyebrow">varvell GROUP · LUXEMBOURG</span>
+          <span className="eyebrow">VARVELL GROUP · LUXEMBOURG</span>
           <h1>Building.<br />Serving.<br /><em>Delivering.</em></h1>
           <p>
             A diversified business group bringing together construction,
